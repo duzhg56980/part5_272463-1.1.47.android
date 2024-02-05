@@ -1,0 +1,7 @@
+import com.alibaba.fastjson.serializer.CollectionCodec;
+public class FunctionUse386 {
+public void funcUse() {
+CollectionCodec collectioncodec = new CollectionCodec();
+collectioncodec.getRawClass(null);
+}
+}
